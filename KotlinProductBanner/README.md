@@ -11,8 +11,8 @@ The banner contains:
 - **Product name:** Aurora Wireless Headphones
 - **Company name:** NorthSound Audio
 - **Contact information:**
-  - Email: `support@northsound.com` #  note real 
-  - Phone: `+358 40 123 4567`
+  - Email: `support@northsound.com` #  random 
+  - Phone: `+358 40 123 4567`        #  random
 
 All the text is placed in a card in the center of the screen, on top of
 the background image, with padding and alignment so it looks clean.
