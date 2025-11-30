@@ -1,0 +1,12 @@
+# IDE stuff (Android Studio / IntelliJ)
+.idea/
+*.iml
+
+# Gradle / build outputs (in case you add them later)
+.gradle/
+build/
+*/build/
+
+# OS / misc
+.DS_Store
+*.log
