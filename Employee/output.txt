@@ -1,0 +1,5 @@
+Employee salaries:
+Alice: 3500.00 €
+Bob: 3100.00 €
+Charlie: 1600.00 €
+Diana: 1110.00 €
