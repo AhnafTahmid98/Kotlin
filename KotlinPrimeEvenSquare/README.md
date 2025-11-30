@@ -1,4 +1,4 @@
-# Kotlin – Assignment 2: filter, map, reduce
+# Kotlin – : filter, map, reduce
 
 This is a simple Kotlin console program that practices functions and
 higher-order functions (`filter`, `map`, `reduce`).

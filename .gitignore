@@ -1,12 +1,32 @@
-# IDE stuff (Android Studio / IntelliJ)
+############################
+# IDE / Android Studio / IntelliJ
+############################
 .idea/
 *.iml
+*.ipr
+*.iws
 
-# Gradle / build outputs (in case you add them later)
+############################
+# Gradle / build outputs
+############################
 .gradle/
-build/
-*/build/
+**/build/
+**/out/
+captures/
+.externalNativeBuild/
+.cxx/
 
+############################
+# Local config files
+############################
+local.properties
+gradle.properties
+*.keystore
+*.jks
+
+############################
 # OS / misc
+############################
 .DS_Store
+Thumbs.db
 *.log
