@@ -26,10 +26,4 @@ _(Update the path/file name based on your repo)_
 
 ![WeatherLazyList screenshot](screenshots/weather_list.png)
 
-## How to Run
 
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/<your-username>/WeatherLazyList.git
-   cd WeatherLazyList
